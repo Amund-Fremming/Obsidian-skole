@@ -12,4 +12,5 @@ Finne basis vektor for R^2
 Finne en ortonormal basis for R^2
 - Begge vektorer må ha en lengde 1 og at de står normalt på hverandre
 - for å stå normalt må indreproduktet være lik 0
-- 
+-
+
